@@ -1,0 +1,340 @@
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+Circular_Seq65	213711	No	NA	231	41	3	Medium-quality	Genome-fragment	86.21	AAI-based (medium-confidence)	0.0	1.01	
+Circular_Seq737	30737	No	NA	57	11	1	High-quality	High-quality	99.49	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq897	103524	No	NA	100	17	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq62	128019	No	NA	201	44	6	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.26	contig >1.5x longer than expected genome length
+Linear_Seq190	8762	No	NA	11	7	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.14	contig >1.5x longer than expected genome length
+Linear_Seq222	13585	No	NA	15	3	0	High-quality	High-quality	100.0	HMM-based (lower-bound)	0.0	1.42	
+Linear_Seq286	29392	No	NA	50	16	0	Medium-quality	Genome-fragment	58.37	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq162	107562	No	NA	141	27	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq194	41775	No	NA	53	31	0	High-quality	High-quality	96.2	AAI-based (medium-confidence)	0.0	1.0	
+Circular_Seq290	35100	No	NA	50	9	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq418	96581	No	NA	148	22	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.05	
+Circular_Seq482	52207	No	NA	68	13	1	High-quality	High-quality	98.09	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq610	31527	No	NA	39	12	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq770	174809	No	NA	307	195	0	High-quality	High-quality	98.05	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq962	98539	No	NA	95	11	0	High-quality	High-quality	92.61	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq95	64861	No	NA	62	19	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.13	contig >1.5x longer than expected genome length
+Linear_Seq159	185039	No	NA	226	19	5	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.03	
+Linear_Seq191	10982	No	NA	11	3	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	contig >1.5x longer than expected genome length
+Linear_Seq255	61422	No	NA	78	23	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.07	contig >1.5x longer than expected genome length
+Linear_Seq447	52793	No	NA	77	36	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.02	contig >1.5x longer than expected genome length
+Linear_Seq479	52748	Yes	45309	66	28	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	14.1	1.0	
+Circular_Seq67	104789	No	NA	151	6	5	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq675	58375	No	NA	118	15	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq963	42899	No	NA	65	13	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq32	139399	No	NA	207	52	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Linear_Seq96	42679	Yes	38759	73	26	5	High-quality	High-quality	96.93	AAI-based (high-confidence)	9.18	1.0	
+Linear_Seq128	10995	No	NA	17	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.41	contig >1.5x longer than expected genome length
+Linear_Seq160	86192	No	NA	111	30	1	High-quality	High-quality	96.25	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq256	47109	No	NA	68	14	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq320	94725	No	NA	112	15	0	High-quality	High-quality	95.66	AAI-based (high-confidence)	0.0	1.01	
+Circular_Seq100	69326	No	NA	82	23	3	High-quality	High-quality	99.33	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq324	187571	No	NA	212	22	4	High-quality	High-quality	99.99	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq388	105010	No	NA	87	16	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq420	42807	No	NA	65	14	0	High-quality	High-quality	98.83	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq708	59844	No	NA	103	24	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.89	high kmer_freq may indicate large duplication; contig >1.5x longer than expected genome length
+Circular_Seq900	41408	No	NA	62	11	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq932	102498	No	NA	96	20	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq33	50738	No	NA	53	1	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.6	high kmer_freq may indicate large duplication; contig >1.5x longer than expected genome length
+Linear_Seq65	101187	No	NA	109	18	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq129	113115	No	NA	102	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.05	
+Linear_Seq161	103386	No	NA	88	15	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Linear_Seq193	14878	No	NA	20	9	0	Low-quality	Genome-fragment	44.31	HMM-based (lower-bound)	0.0	1.0	
+Linear_Seq225	7455	No	NA	9	3	0	Medium-quality	Genome-fragment	69.5	HMM-based (lower-bound)	0.0	1.0	
+Linear_Seq353	38300	Yes	32956	59	17	3	High-quality	High-quality	92.88	AAI-based (high-confidence)	13.95	1.0	
+Linear_Seq385	57644	No	NA	78	31	6	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq69	36647	No	NA	58	12	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+Circular_Seq325	70936	No	NA	98	18	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.83	high kmer_freq may indicate large duplication; contig >1.5x longer than expected genome length
+Circular_Seq805	49566	No	NA	65	17	0	High-quality	High-quality	95.78	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq34	79687	No	NA	120	18	2	Medium-quality	Genome-fragment	79.15	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq162	42786	Yes	35352	52	15	3	High-quality	High-quality	94.1	AAI-based (medium-confidence)	17.37	1.0	
+Linear_Seq226	35498	No	NA	17	3	1	High-quality	High-quality	100.0	HMM-based (lower-bound)	0.0	1.11	
+Linear_Seq322	46515	No	NA	72	23	1	High-quality	High-quality	98.83	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq386	63169	No	NA	79	30	1	Medium-quality	Genome-fragment	83.65	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq482	32293	No	NA	56	16	0	High-quality	High-quality	99.13	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq70	59320	No	NA	90	29	2	High-quality	High-quality	99.12	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq518	48886	No	NA	68	22	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq550	43412	No	NA	80	18	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq646	63333	No	NA	91	10	3	High-quality	High-quality	99.12	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq838	46247	No	NA	66	8	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq35	64226	No	NA	82	33	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq291	31779	No	NA	58	18	1	High-quality	High-quality	99.86	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq199	35094	No	NA	54	19	1	High-quality	High-quality	97.55	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq391	46069	No	NA	75	48	0	High-quality	High-quality	97.68	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq615	5525	No	NA	8	2	0	High-quality	High-quality	99.93	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq68	37382	No	NA	54	16	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq132	39620	No	NA	47	5	0	High-quality	High-quality	98.68	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq228	15819	No	NA	21	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.03	no viral genes detected
+Linear_Seq452	56077	No	NA	103	13	2	High-quality	High-quality	98.13	AAI-based (high-confidence)	0.0	1.01	
+Circular_Seq72	73326	No	NA	85	37	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq104	28857	No	NA	47	2	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.39	contig >1.5x longer than expected genome length
+Circular_Seq136	72613	No	NA	105	14	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq392	56256	No	NA	93	19	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq488	44745	No	NA	74	16	0	High-quality	High-quality	96.96	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq552	46714	No	NA	70	20	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.02	
+Circular_Seq712	41682	No	NA	62	10	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.02	
+Circular_Seq744	58213	No	NA	103	13	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq37	34663	No	NA	63	7	1	Medium-quality	Genome-fragment	81.63	AAI-based (medium-confidence)	0.0	1.0	
+Linear_Seq69	70025	Yes	59929	89	38	5	High-quality	High-quality	100.0	AAI-based (high-confidence)	14.42	1.0	contig >1.5x longer than expected genome length
+Linear_Seq101	82676	Yes	75814	121	50	8	High-quality	High-quality	100.0	AAI-based (high-confidence)	8.3	1.01	contig >1.5x longer than expected genome length
+Linear_Seq165	54278	No	NA	95	17	5	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.33	
+Linear_Seq197	37930	No	NA	42	6	1	Medium-quality	Genome-fragment	65.41	AAI-based (medium-confidence)	0.0	1.0	
+Linear_Seq261	46318	Yes	42278	81	14	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	8.72	1.01	
+Linear_Seq357	13957	No	NA	17	6	0	Low-quality	Genome-fragment	46.98	HMM-based (lower-bound)	0.0	1.0	
+Linear_Seq453	14862	No	NA	18	8	0	Low-quality	Genome-fragment	48.43	HMM-based (lower-bound)	0.0	1.0	
+Circular_Seq105	56306	No	NA	82	17	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Circular_Seq297	35759	No	NA	57	28	0	High-quality	High-quality	99.07	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq361	52888	No	NA	92	29	0	Low-quality	Genome-fragment	46.44	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq393	6239	No	NA	8	3	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq617	36906	No	NA	62	22	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Circular_Seq681	96334	No	NA	92	9	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq969	34803	No	NA	63	19	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq166	37069	No	NA	71	15	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq230	24437	No	NA	38	18	0	Medium-quality	Genome-fragment	53.17	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq294	55886	No	NA	82	19	0	High-quality	High-quality	99.79	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq358	36705	No	NA	56	19	0	Medium-quality	Genome-fragment	87.02	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq454	8030	No	NA	12	5	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.4	
+Circular_Seq10	43515	No	NA	65	16	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq426	40526	No	NA	61	17	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq39	79990	No	NA	130	18	3	High-quality	High-quality	99.24	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq135	16668	No	NA	22	8	0	Medium-quality	Genome-fragment	85.48	AAI-based (medium-confidence)	0.0	1.0	
+Linear_Seq199	88207	No	NA	134	30	3	High-quality	High-quality	99.76	AAI-based (high-confidence)	0.0	1.01	
+Linear_Seq263	38960	No	NA	56	18	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq359	116896	No	NA	180	26	6	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.08	
+Circular_Seq43	63195	No	NA	104	18	0	High-quality	High-quality	99.91	AAI-based (high-confidence)	0.0	1.01	
+Circular_Seq299	45906	No	NA	59	13	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq427	45506	No	NA	82	18	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq523	97353	Yes	91588	93	10	4	High-quality	High-quality	95.44	AAI-based (high-confidence)	5.92	1.0	
+Circular_Seq587	46330	No	NA	64	10	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq619	45063	No	NA	63	30	1	High-quality	High-quality	99.82	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq8	64995	No	NA	79	22	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq136	149447	No	NA	246	37	9	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.08	contig >1.5x longer than expected genome length
+Linear_Seq200	97341	No	NA	117	26	1	High-quality	High-quality	98.94	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq264	66411	No	NA	90	7	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.16	
+Linear_Seq296	53138	No	NA	66	19	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq360	47318	Yes	44885	95	10	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	5.14	1.0	
+Linear_Seq392	70097	No	NA	85	17	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq44	50048	No	NA	65	19	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+Circular_Seq76	156048	No	NA	211	43	5	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq332	92896	No	NA	131	13	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq492	71619	No	NA	127	27	5	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq524	86916	No	NA	135	19	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq620	132393	No	NA	187	48	4	High-quality	High-quality	97.56	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq652	173919	No	NA	183	23	5	High-quality	High-quality	99.09	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq716	130682	No	NA	160	41	3	High-quality	High-quality	98.78	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq748	49755	No	NA	77	22	0	High-quality	High-quality	98.6	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq940	84245	No	NA	130	29	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq9	56147	No	NA	94	12	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.11	contig >1.5x longer than expected genome length
+Linear_Seq137	18860	No	NA	24	8	1	Medium-quality	Genome-fragment	62.43	AAI-based (medium-confidence)	0.0	1.0	
+Linear_Seq361	45719	Yes	36556	64	17	4	Medium-quality	Genome-fragment	64.06	HMM-based (lower-bound)	20.04	1.0	
+Linear_Seq393	38857	No	NA	62	34	0	Medium-quality	Genome-fragment	65.03	AAI-based (medium-confidence)	0.0	1.0	
+Circular_Seq77	37237	No	NA	46	5	0	High-quality	High-quality	99.76	AAI-based (high-confidence)	0.0	1.02	
+Circular_Seq109	117490	No	NA	157	38	8	High-quality	High-quality	91.55	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq365	34918	No	NA	47	25	0	Medium-quality	Genome-fragment	77.31	AAI-based (medium-confidence)	0.0	1.02	
+Circular_Seq589	39043	No	NA	60	20	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq10	38454	No	NA	39	6	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq42	108445	No	NA	114	15	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.04	
+Linear_Seq74	47724	No	NA	71	25	0	Medium-quality	Genome-fragment	78.91	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq394	46776	No	NA	46	5	5	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq46	78554	No	NA	113	25	1	High-quality	High-quality	98.56	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq398	56346	No	NA	102	17	2	High-quality	High-quality	99.61	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq494	41192	No	NA	60	23	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq526	43598	No	NA	55	8	0	High-quality	High-quality	98.61	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq750	42388	No	NA	71	16	2	Medium-quality	Genome-fragment	89.9	AAI-based (medium-confidence)	0.0	1.0	
+Circular_Seq782	184573	No	NA	287	36	8	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq75	24936	No	NA	30	2	3	Low-quality	Genome-fragment	45.53	HMM-based (lower-bound)	0.0	1.0	
+Linear_Seq139	71352	Yes	67236	92	13	5	High-quality	High-quality	100.0	AAI-based (medium-confidence)	5.77	1.01	
+Linear_Seq171	78476	No	NA	102	30	1	Medium-quality	Genome-fragment	89.87	AAI-based (medium-confidence)	0.0	1.02	
+Linear_Seq363	64424	No	NA	83	21	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq79	43906	No	NA	48	42	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq143	145779	No	NA	213	39	4	High-quality	High-quality	98.97	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq175	40982	No	NA	71	19	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq367	154560	No	NA	183	23	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Circular_Seq527	39965	No	NA	59	22	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq751	189251	No	NA	233	28	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq911	48063	No	NA	69	15	1	High-quality	High-quality	97.03	AAI-based (high-confidence)	0.0	1.02	
+Circular_Seq975	61109	No	NA	96	20	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Linear_Seq44	80690	No	NA	107	29	2	Medium-quality	Genome-fragment	77.24	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq140	13337	No	NA	18	3	0	High-quality	High-quality	97.7	AAI-based (medium-confidence)	0.0	1.02	
+Linear_Seq172	45204	No	NA	47	29	0	Medium-quality	Genome-fragment	75.45	AAI-based (medium-confidence)	0.0	1.05	
+Circular_Seq48	41248	No	NA	76	22	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq208	46567	No	NA	61	9	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq336	169454	No	NA	195	27	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq368	37836	No	NA	52	19	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq624	31310	No	NA	36	14	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq205	92120	No	NA	123	29	1	High-quality	High-quality	92.18	AAI-based (medium-confidence)	0.0	1.0	
+Linear_Seq237	200700	No	NA	239	46	8	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq269	44768	No	NA	76	5	0	Medium-quality	Genome-fragment	85.06	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq301	38300	No	NA	50	5	1	Low-quality	Genome-fragment	49.3	AAI-based (medium-confidence)	0.0	1.0	
+Linear_Seq461	40619	No	NA	25	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.07	no viral genes detected
+Circular_Seq177	113853	No	NA	125	36	1	Medium-quality	Genome-fragment	83.68	AAI-based (medium-confidence)	0.0	1.0	
+Circular_Seq273	108516	No	NA	127	31	1	Medium-quality	Genome-fragment	79.91	AAI-based (medium-confidence)	0.0	1.0	
+Circular_Seq337	118688	No	NA	151	34	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq433	97272	No	NA	113	38	0	High-quality	High-quality	94.59	AAI-based (high-confidence)	0.0	1.01	
+Circular_Seq529	64464	No	NA	96	30	0	High-quality	High-quality	98.43	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq945	41979	No	NA	64	9	1	High-quality	High-quality	98.74	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq14	102924	No	NA	135	25	3	Medium-quality	Genome-fragment	69.31	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq46	25216	No	NA	34	12	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+Linear_Seq142	59348	No	NA	78	19	0	Medium-quality	Genome-fragment	88.08	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq206	51284	No	NA	57	25	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.03	
+Linear_Seq366	14867	No	NA	15	3	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	contig >1.5x longer than expected genome length
+Linear_Seq430	114300	No	NA	63	6	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.05	
+Circular_Seq82	163695	No	NA	196	35	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq146	46028	No	NA	73	23	1	High-quality	High-quality	97.07	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq434	49457	No	NA	69	27	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq498	49570	No	NA	72	12	1	High-quality	High-quality	99.67	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq530	124028	No	NA	152	33	4	Medium-quality	Genome-fragment	78.25	AAI-based (medium-confidence)	0.0	1.0	
+Circular_Seq690	61902	No	NA	109	22	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.33	contig >1.5x longer than expected genome length
+Circular_Seq914	60305	No	NA	91	25	1	High-quality	High-quality	96.48	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq47	78915	No	NA	98	21	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.06	
+Linear_Seq111	73540	No	NA	111	23	1	High-quality	High-quality	92.76	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq143	44962	Yes	42259	56	21	4	High-quality	High-quality	97.61	AAI-based (high-confidence)	6.01	1.0	
+Linear_Seq207	94389	No	NA	142	22	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.05	
+Linear_Seq303	20015	No	NA	25	7	0	Medium-quality	Genome-fragment	87.95	AAI-based (medium-confidence)	0.0	1.02	
+Linear_Seq367	21180	No	NA	28	9	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Circular_Seq51	79807	No	NA	147	20	5	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq115	37842	Yes	32969	54	11	2	High-quality	High-quality	92.03	AAI-based (high-confidence)	12.88	1.0	
+Circular_Seq275	45699	No	NA	73	16	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq371	40952	No	NA	75	23	1	Medium-quality	Genome-fragment	53.8	HMM-based (lower-bound)	0.0	1.0	
+Circular_Seq403	174985	No	NA	207	30	4	High-quality	High-quality	99.88	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq531	213632	No	NA	178	32	3	High-quality	High-quality	98.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq691	62883	No	NA	111	31	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq755	60540	No	NA	97	24	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Circular_Seq947	98539	No	NA	94	11	0	High-quality	High-quality	92.63	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq16	58671	Yes	53315	86	20	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	9.13	1.05	
+Linear_Seq144	198544	No	NA	239	31	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.03	
+Linear_Seq400	69793	No	NA	85	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.15	contig >1.5x longer than expected genome length
+Linear_Seq432	112852	No	NA	165	35	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq308	64881	No	NA	71	9	2	High-quality	High-quality	96.49	AAI-based (high-confidence)	0.0	1.04	
+Circular_Seq340	130865	No	NA	184	31	3	High-quality	High-quality	98.3	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq788	50508	No	NA	68	16	2	High-quality	High-quality	98.43	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq209	84337	No	NA	141	23	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq305	43216	No	NA	53	13	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.08	
+Linear_Seq401	44763	No	NA	77	23	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.1	
+Linear_Seq433	232946	No	NA	343	50	7	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.52	high kmer_freq may indicate large duplication; contig >1.5x longer than expected genome length
+Circular_Seq21	39976	No	NA	86	17	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq213	46568	No	NA	62	11	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq245	51102	No	NA	70	18	0	High-quality	High-quality	96.89	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq309	41326	No	NA	59	17	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq341	79366	No	NA	118	18	1	High-quality	High-quality	98.48	AAI-based (high-confidence)	0.0	1.03	
+Circular_Seq501	47500	No	NA	77	11	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq629	58357	No	NA	84	18	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq661	67277	No	NA	95	21	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq757	49376	No	NA	74	33	2	High-quality	High-quality	96.63	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq821	47296	No	NA	82	18	0	High-quality	High-quality	92.81	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq82	70015	No	NA	90	17	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.06	contig >1.5x longer than expected genome length
+Linear_Seq114	111531	Yes	104872	135	31	6	Medium-quality	Genome-fragment	77.24	AAI-based (medium-confidence)	5.97	1.0	
+Linear_Seq146	49121	Yes	45041	75	30	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	8.31	1.0	
+Linear_Seq178	21394	No	NA	41	7	1	Medium-quality	Genome-fragment	58.07	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq370	103697	No	NA	142	12	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Circular_Seq118	102236	No	NA	103	16	0	High-quality	High-quality	98.53	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq150	48499	No	NA	68	18	1	High-quality	High-quality	98.59	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq342	163255	No	NA	210	42	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq374	6194	No	NA	7	3	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq406	47944	No	NA	70	35	1	High-quality	High-quality	98.17	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq630	55465	No	NA	83	22	1	High-quality	High-quality	99.62	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq694	83335	No	NA	136	26	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq918	60933	No	NA	91	20	2	High-quality	High-quality	99.7	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq19	45113	Yes	39671	60	21	3	High-quality	High-quality	91.95	AAI-based (medium-confidence)	12.06	1.0	
+Linear_Seq51	91479	Yes	87642	119	6	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	4.19	1.21	contig >1.5x longer than expected genome length
+Linear_Seq243	89857	No	NA	138	33	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Linear_Seq339	58435	No	NA	102	19	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Linear_Seq467	93089	No	NA	157	40	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.05	contig >1.5x longer than expected genome length
+Circular_Seq663	39571	No	NA	73	12	1	Medium-quality	Genome-fragment	86.49	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq52	43730	No	NA	51	23	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq180	13767	No	NA	16	6	0	Low-quality	Genome-fragment	33.4	HMM-based (lower-bound)	0.0	1.02	
+Linear_Seq212	11992	No	NA	17	5	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.02	
+Linear_Seq340	15607	No	NA	23	4	0	Low-quality	Genome-fragment	46.72	HMM-based (lower-bound)	0.0	1.0	
+Circular_Seq152	29735	No	NA	48	15	0	Medium-quality	Genome-fragment	57.99	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq216	44362	No	NA	56	4	0	High-quality	High-quality	98.06	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq408	97403	No	NA	84	7	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq536	45378	No	NA	71	23	0	High-quality	High-quality	93.47	AAI-based (medium-confidence)	0.0	1.0	
+Circular_Seq728	57492	No	NA	78	12	3	High-quality	High-quality	98.56	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq21	69581	No	NA	100	16	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.12	contig >1.5x longer than expected genome length
+Linear_Seq85	70470	No	NA	105	13	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.07	
+Linear_Seq117	64949	No	NA	91	6	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.12	contig >1.5x longer than expected genome length
+Linear_Seq149	40787	No	NA	54	49	0	Complete	High-quality	100.0	DTR (high-confidence)	0.0	1.0	
+Linear_Seq245	38137	No	NA	64	15	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.04	
+Circular_Seq25	33767	No	NA	42	16	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.72	high kmer_freq may indicate large duplication
+Circular_Seq249	51096	No	NA	70	18	0	High-quality	High-quality	96.88	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq409	156944	No	NA	205	18	5	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq793	157530	No	NA	199	15	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq22	153747	No	NA	190	35	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.03	
+Linear_Seq278	15871	No	NA	18	5	0	Medium-quality	Genome-fragment	52.83	HMM-based (lower-bound)	0.0	1.0	
+Linear_Seq310	60820	No	NA	98	19	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq342	146428	No	NA	179	38	7	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq90	49193	No	NA	72	19	2	High-quality	High-quality	94.19	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq122	114433	No	NA	199	29	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.09	contig >1.5x longer than expected genome length
+Circular_Seq186	61560	No	NA	101	31	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq346	129873	No	NA	243	21	5	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.02	
+Circular_Seq570	35344	No	NA	50	32	1	High-quality	High-quality	95.27	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq55	48983	No	NA	59	14	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq247	89719	No	NA	134	35	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.02	
+Linear_Seq279	86878	No	NA	143	30	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	contig >1.5x longer than expected genome length
+Linear_Seq343	94178	No	NA	113	15	1	High-quality	High-quality	95.13	AAI-based (high-confidence)	0.0	1.01	
+Linear_Seq407	55462	Yes	34694	67	14	11	Medium-quality	Genome-fragment	64.8	AAI-based (high-confidence)	37.45	1.0	
+Circular_Seq27	38974	No	NA	55	23	1	High-quality	High-quality	98.89	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq123	46204	No	NA	73	17	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Circular_Seq571	39635	No	NA	64	18	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq635	109168	No	NA	166	14	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq667	99106	No	NA	113	30	1	Medium-quality	Genome-fragment	73.05	AAI-based (medium-confidence)	0.0	1.01	
+Circular_Seq731	40708	No	NA	65	31	0	High-quality	High-quality	96.3	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq24	70556	No	NA	98	35	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.06	
+Linear_Seq56	87298	No	NA	110	19	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.22	contig >1.5x longer than expected genome length
+Linear_Seq280	97613	No	NA	132	46	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.03	contig >1.5x longer than expected genome length
+Linear_Seq344	97496	No	NA	154	16	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Linear_Seq440	83838	No	NA	120	39	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq472	47946	No	NA	60	18	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq156	55423	No	NA	75	33	1	High-quality	High-quality	97.67	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq220	55650	No	NA	93	23	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq572	6346	No	NA	7	3	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq249	41189	No	NA	63	18	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq441	22524	No	NA	38	12	3	Medium-quality	Genome-fragment	60.23	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq93	112827	No	NA	183	28	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq125	60189	No	NA	92	32	0	High-quality	High-quality	99.07	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq541	71072	No	NA	117	20	5	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq669	57264	No	NA	99	22	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq733	92232	No	NA	127	16	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq90	47389	No	NA	60	10	3	Medium-quality	Genome-fragment	55.61	HMM-based (lower-bound)	0.0	1.0	
+Linear_Seq186	19840	No	NA	27	4	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.5	high kmer_freq may indicate large duplication; contig >1.5x longer than expected genome length
+Linear_Seq218	37502	No	NA	65	21	0	High-quality	High-quality	99.18	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq250	167500	No	NA	212	54	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Linear_Seq282	84662	No	NA	121	29	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.09	
+Circular_Seq62	40111	No	NA	66	21	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq190	42865	No	NA	72	20	0	Medium-quality	Genome-fragment	53.62	HMM-based (lower-bound)	0.0	1.0	
+Circular_Seq382	37378	No	NA	48	10	0	High-quality	High-quality	99.23	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq542	6501	No	NA	9	4	0	High-quality	High-quality	99.4	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq702	111992	No	NA	114	31	3	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq990	85519	No	NA	133	26	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
+Linear_Seq187	55569	No	NA	75	19	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.04	
+Linear_Seq219	73744	Yes	40506	95	13	15	Medium-quality	Genome-fragment	64.89	AAI-based (high-confidence)	45.07	1.0	low-confidence Provirus
+Linear_Seq283	62211	No	NA	80	13	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.05	contig >1.5x longer than expected genome length
+Linear_Seq347	51590	Yes	40573	73	21	9	Complete	High-quality	100.0	Provirus (high-confidence)	21.35	1.0	
+Circular_Seq63	49744	No	NA	83	23	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq159	163954	No	NA	195	21	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq191	47433	No	NA	67	7	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+Circular_Seq223	40084	No	NA	64	28	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq415	160496	No	NA	191	39	4	High-quality	High-quality	99.92	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq543	74024	No	NA	94	12	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.26	contig >1.5x longer than expected genome length
+Circular_Seq735	42429	No	NA	68	16	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq927	146072	No	NA	205	38	2	High-quality	High-quality	99.18	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq28	139380	No	NA	185	56	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq60	106908	No	NA	103	15	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.05	
+Linear_Seq124	40982	Yes	30463	58	14	5	Medium-quality	Genome-fragment	89.07	AAI-based (high-confidence)	25.67	1.0	
+Linear_Seq188	52437	No	NA	72	4	2	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq220	47913	No	NA	62	26	4	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq284	92088	Yes	82039	117	23	4	High-quality	High-quality	100.0	AAI-based (medium-confidence)	10.91	1.05	contig >1.5x longer than expected genome length
+Linear_Seq316	48312	No	NA	82	19	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.05	
+Circular_Seq128	54004	No	NA	79	22	0	High-quality	High-quality	98.58	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq416	46202	No	NA	76	19	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq736	93350	No	NA	99	11	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq768	34966	No	NA	55	21	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Circular_Seq992	88864	No	NA	151	30	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.92	high kmer_freq may indicate large duplication; contig >1.5x longer than expected genome length
+Linear_Seq29	41345	No	NA	62	16	1	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq125	57036	No	NA	56	9	3	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+Linear_Seq189	7467	No	NA	19	10	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.35	
+Linear_Seq253	19585	No	NA	28	7	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.07	
+Linear_Seq285	17198	No	NA	26	10	0	Medium-quality	Genome-fragment	76.08	AAI-based (medium-confidence)	0.0	1.01	
+Linear_Seq317	16253	No	NA	21	13	1	Low-quality	Genome-fragment	46.66	AAI-based (high-confidence)	0.0	1.0	
+Linear_Seq349	43951	No	NA	59	8	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.01	
