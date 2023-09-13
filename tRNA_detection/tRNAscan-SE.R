@@ -48,6 +48,9 @@ coda_x <- cbind(aggregate_x$trna,coda_x)
 colnames(coda_x)[1] <- "trna"
 coda_x <- coda_x[,c(1,5,4,3,2,9,8,7,6)]
 
+#Export second set of results
+#fwrite(coda_x, file = "results_2.csv")
+
 #Rank tRNA proportional abundances
 rank_x <- as.data.table(apply(-coda_x[,2:9], MARGIN=2, FUN=rank, ties="first"))
 rank_x <- cbind(aggregate_x$trna,rank_x)
